@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -37,7 +37,7 @@ h1, h2 {
   font-weight: bold;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Modules - reusable parts of our design
 
@@ -55,9 +55,9 @@ Modules - reusable parts of our design
   clear: both;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 header {
@@ -73,8 +73,9 @@ header h1 {
 }
 @media only screen and (min-width: 1170px) {
   header {
-    height: 300px;
-    line-height: 300px;
+    height: 200px;
+    line-height: 30px;
+    padding-top: 30px;
   }
   header h1 {
     font-size: 24px;
